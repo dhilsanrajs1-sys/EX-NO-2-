@@ -196,7 +196,7 @@ int main()
 }
 ```
 ## Output:
-<img width="416" height="441" alt="image" src="https://github.com/user-attachments/assets/b4b38cf1-37b5-4781-9432-ddfdf3685dbc" />
+<img width="1501" height="637" alt="image" src="https://github.com/user-attachments/assets/cfe3dca4-33f7-4591-b517-9834db6d6fa8" />
 
 ## Result:
 Thus, the Playfair Cipher algorithm was successfully implemented.
